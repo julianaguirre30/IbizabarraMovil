@@ -330,7 +330,7 @@
 			e.preventDefault();
 		  
 			//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
-			let telefono = "+5493624334733";
+			let telefono = "+5493625526433";
 		  
 			let cliente = document.querySelector("#booking-name").value;
 			let fecha = document.querySelector("#fecha").value;

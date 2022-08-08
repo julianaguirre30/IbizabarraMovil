@@ -125,7 +125,7 @@ body {
 	font-size: 15px;
 	line-height: 1.66667;
 	font-weight: 300;
-	color: rgba(21, 21, 21, 0.8);
+	color: black;
 	background-color: #ffffff;
 	letter-spacing: -0.03em;
 	-webkit-text-size-adjust: none;
@@ -621,7 +621,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .post-corporate.post-corporate-img-bg .box-minimal p, .section-main-bunner .box-minimal p, .context-dark .box-minimal p, .bg-gray-600 .box-minimal p, .bg-gray-700 .box-minimal p, .bg-gray-800 .box-minimal p, .bg-primary .box-minimal p, .bg-pink .box-minimal p, .bg-secondary .box-minimal p, .bg-secondary-2 .box-minimal p, .bg-green .box-minimal p {
-	color: rgba(21, 21, 21, 0.8);
+	color: black;
 }
 
 .box-counter {
@@ -933,7 +933,7 @@ a[href*='tel'], a[href*='mailto'] {
 	text-transform: uppercase;
 	letter-spacing: .15em;
 	font-weight: 400;
-	color: rgba(21, 21, 21, 0.8);
+	color: black;
 }
 
 .team-name {
@@ -1447,7 +1447,7 @@ a[href*='tel'], a[href*='mailto'] {
 	max-width: 200px;
 	margin-left: auto;
 	margin-right: auto;
-	color: rgba(21, 21, 21, 0.8);
+	color: black;
 }
 
 .pricing-modern-list.list-marked > li:before {
@@ -1541,7 +1541,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .pricing-corporate-list {
-	color: rgba(21, 21, 21, 0.8);
+	color: black;
 }
 
 .pricing-corporate-list li + li {
@@ -1758,7 +1758,7 @@ a[href*='tel'], a[href*='mailto'] {
 	font-size: 10px;
 	text-transform: uppercase;
 	letter-spacing: 0.15em;
-	color: rgba(21, 21, 21, 0.8);
+	color: black;
 }
 
 .box-img-animate {
@@ -3233,7 +3233,7 @@ textarea.form-input {
 .form-label,
 .form-label-outside {
 	
-	color: rgba(21, 21, 21, 0.8);
+	color: black;
 	font-weight: 300;
 }
 
@@ -4247,7 +4247,7 @@ ul.blog-post-meta li .icon {
 }
 
 .post-modern-text {
-	color: rgba(21, 21, 21, 0.8);
+	color: rgba(0, 0, 0, 0.8);
 	line-height: 25px;
 }
 
@@ -5978,7 +5978,7 @@ html [class*='section-'].section-bottom-0 {
 }
 
 .post-corporate.post-corporate-img-bg .team-classic-caption p, .section-main-bunner .team-classic-caption p, .context-dark .team-classic-caption p, .bg-gray-600 .team-classic-caption p, .bg-gray-700 .team-classic-caption p, .bg-gray-800 .team-classic-caption p, .bg-primary .team-classic-caption p, .bg-pink .team-classic-caption p, .bg-secondary .team-classic-caption p, .bg-secondary-2 .team-classic-caption p, .bg-green .team-classic-caption p, .post-corporate.post-corporate-img-bg .team-modern-caption p, .section-main-bunner .team-modern-caption p, .context-dark .team-modern-caption p, .bg-gray-600 .team-modern-caption p, .bg-gray-700 .team-modern-caption p, .bg-gray-800 .team-modern-caption p, .bg-primary .team-modern-caption p, .bg-pink .team-modern-caption p, .bg-secondary .team-modern-caption p, .bg-secondary-2 .team-modern-caption p, .bg-green .team-modern-caption p {
-	color: rgba(21, 21, 21, 0.8);
+	color: black;
 }
 
 .post-corporate.post-corporate-img-bg .team-classic-caption h4 a, .section-main-bunner .team-classic-caption h4 a, .context-dark .team-classic-caption h4 a, .bg-gray-600 .team-classic-caption h4 a, .bg-gray-700 .team-classic-caption h4 a, .bg-gray-800 .team-classic-caption h4 a, .bg-primary .team-classic-caption h4 a, .bg-pink .team-classic-caption h4 a, .bg-secondary .team-classic-caption h4 a, .bg-secondary-2 .team-classic-caption h4 a, .bg-green .team-classic-caption h4 a, .post-corporate.post-corporate-img-bg .team-modern-caption h4 a, .section-main-bunner .team-modern-caption h4 a, .context-dark .team-modern-caption h4 a, .bg-gray-600 .team-modern-caption h4 a, .bg-gray-700 .team-modern-caption h4 a, .bg-gray-800 .team-modern-caption h4 a, .bg-primary .team-modern-caption h4 a, .bg-pink .team-modern-caption h4 a, .bg-secondary .team-modern-caption h4 a, .bg-secondary-2 .team-modern-caption h4 a, .bg-green .team-modern-caption h4 a {
@@ -6340,7 +6340,7 @@ html [class*='section-'].section-bottom-0 {
 
 p.rights {
 	font-size: 14px;
-	color: rgba(21, 21, 21, 0.8);
+	color: black;
 }
 
 p.rights a {
@@ -9704,7 +9704,7 @@ html.rd-navbar-fixed-linked .page {
 	}
 	.tabs-line .nav-link {
 		padding: 7px 10px;
-		color: rgba(21, 21, 21, 0.8);
+		color: black;
 		background: transparent;
 		border-bottom: 1px solid #e5e7e9;
 	}
